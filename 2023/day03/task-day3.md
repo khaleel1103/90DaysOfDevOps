@@ -1,3 +1,3 @@
 test md file
 ### 
-![ALT TEXT] (./day3-b.png)
+![alt-text] (day3-b.png)
