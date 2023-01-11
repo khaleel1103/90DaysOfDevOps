@@ -27,10 +27,10 @@
          ## Start by importing the GPG key. The GPG key verifies package integrity but there is no output. Run.
          echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] https://pkg.jenkins.io/debian-stable binary/ | sudo tee /etc/apt/sources.list.d/jenkins.list > /dev/null
          ---## Add the Jenkins software repository to the source list and provide the authentication key
-         Installation of the Jenkins
+         Installation of the Jenkins.
          --sudo apt update --update the system package repository by running.
-         --sudo apt install jenkins -y -- installation of the jenkins
-         --sudo systemctl status jenkins -- To check if Jenkins is installed and running, run the following command
+         --sudo apt install jenkins -y -- installation of the jenkins.
+         --sudo systemctl status jenkins -- To check if Jenkins is installed and running, run the following command.
 
     --- steps to install the Docker in the ubuntu
         sudo apt install docker.io
