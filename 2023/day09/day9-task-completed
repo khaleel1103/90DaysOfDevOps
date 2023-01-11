@@ -1,0 +1,37 @@
+# Day 9 Task: Deep Dive in Git & GitHub for DevOps Engineers.
+
+## Find the answers by your understandings(Shoulden't be copied by internet & used hand-made diagrams)  of below quistions and Write blog on it.
+1) What is Git and why is it important?
+-- Git is the Souce Code Mangement tool.its open-source version Control system used to handle the projects in the orgination.it keeps the tracking in the source code.its important in the projects to keep tracking of the changes in the source code when ever the changes made by anyone in the repository.
+2) What is difference Between Main Branch and Master Branch??
+-- main and master are the default branch when you create the repository main branch is created on the github remote repository and the same think by the name master is created on the git local repository. 
+3) Can you explain the difference between Git and GitHub?
+--Git is a tool that used to manage the multiple versions of the source code edits and can transfer the files to git repository.
+--github is the serves as a location for the uploaded code copy versions of the git repository.
+4) How do you create a new repository on GitHub?
+-- if you log into the the github account right side above and beside the signin there is the plus button .click the button you will find the new repository option and should fill the required details.
+5) What is difference between local & remote repository? How to connect local to remote? 
+-- local repository is the repo where you will make the change or modification made in the local system. remote repository is the repo on the github where the changes are pushed in the version controling form.
+-- to connect from local to remote--we use the comment 
+   git remote add origin <github id>.
+
+## Tasks
+task-1: 
+- Set your user name and email address, which will be associated with your commits.
+-- git config --global user.name "aaaa"
+-- git config --global user.email "aaa@gmail.com"
+
+task-2: 
+- Create a repository named "Devops" on GitHub
+-- https://github.com/khaleel1103/new-repository-tday8.git
+- Connect your local repository to the repository on GitHub.
+-- User@DESKTOP-CPUHRSF MINGW64 ~/Downloads/new-repository-tday8/dev-branch (Devops)
+- Create a new file in Devops/Git/Day-02.txt & add some content to it
+---- https://github.com/khaleel1103/new-repository-tday8.git
+- Push your local commits to the repository on GitHub
+-- -- https://github.com/khaleel1103/new-repository-tday8.git
+
+reff :- https://youtu.be/AT1uxOLsCdk
+
+
+Note: These steps assume that you have already installed Git on your computer and have created a GitHub account. If you need help with these prerequisites, you can refer to the [day-08](https://github.com/LondheShubham153/90DaysOfDevOps/blob/ee7c53f276edb02a85a97282027028295be17c04/2023/day08/tasks.md)
