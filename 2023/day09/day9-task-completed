@@ -27,9 +27,9 @@ task-2:
 - Connect your local repository to the repository on GitHub.
 -- User@DESKTOP-CPUHRSF MINGW64 ~/Downloads/new-repository-tday8/dev-branch (Devops)
 - Create a new file in Devops/Git/Day-02.txt & add some content to it
----- https://github.com/khaleel1103/new-repository-tday8.git
+---- https://github.com/khaleel1103/new-repository-tday8.git.
 - Push your local commits to the repository on GitHub
--- -- https://github.com/khaleel1103/new-repository-tday8.git
+-- -- https://github.com/khaleel1103/new-repository-tday8.git.
 
 reff :- https://youtu.be/AT1uxOLsCdk
 
