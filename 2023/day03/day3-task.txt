@@ -16,7 +16,7 @@ Task: What is the linux command to
 6. Add content in fruits.txt (One in each line) - Apple, Mango, Banana, Cherry, Kiwi, Orange, Guava.
 Vim fruits.txt 
 Press i
-Apple, 
+Apple
 Mango, 
 Banana, 
 Cherry, 
